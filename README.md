@@ -1,7 +1,7 @@
 
----
 
-````markdown
+
+
 # Mini Crossy Road
 
 Um joguinho simples inspirado no Crossy Road, desenvolvido em Python utilizando a biblioteca Pygame. O objetivo é atravessar a rua desviando dos obstáculos (carros, caminhões, etc.).
