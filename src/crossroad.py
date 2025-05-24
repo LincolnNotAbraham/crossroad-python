@@ -5,7 +5,9 @@ import random
 #from pygame.sprite import AbstractGroup
 import os
 
-diretorio = os.path.dirname(__file__)
+diretorio = os.path.join(os.path.dirname(__file__), '..', 'assets')
+diretorio = os.path.abspath(diretorio)
+
 arquivos = {}
 
 for arquivo in os.listdir(diretorio):
@@ -192,7 +194,7 @@ while True and not morreu:
                     if event.key == K_r:
                         reiniciar_jogo()
                         morreu = False
-                        print("ae")
+                       
                         primeira_vez = 1
                         pygame.display.update()
                         pygame.mixer.music.play(-1)
