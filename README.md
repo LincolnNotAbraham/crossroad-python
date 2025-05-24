@@ -34,7 +34,7 @@ pip install pygame
 3. Execute o jogo:
 
 ```bash
-python jogo.py
+python crossroad.py
 ```
 
 ## Controles
