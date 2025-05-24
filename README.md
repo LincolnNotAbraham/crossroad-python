@@ -22,7 +22,7 @@ Um joguinho simples inspirado no Crossy Road, desenvolvido em Python utilizando 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/LincolnNotAbraham/crossroad-python
 ````
 
 2. Instale as dependências:
