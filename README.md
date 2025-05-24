@@ -4,12 +4,11 @@
 
 # Mini Crossy Road
 
-Um joguinho simples inspirado no Crossy Road, desenvolvido em Python utilizando a biblioteca Pygame. O objetivo é atravessar a rua desviando dos obstáculos (carros, caminhões, etc.).
+Um joguinho simples inspirado no Crossy Road, desenvolvido em Python utilizando a biblioteca Pygame. O objetivo é atravessar a rua desviando dos obstáculos.
 
 ## Funcionalidades
 
 - Movimentação do personagem (cima, baixo, esquerda, direita)
-- Geração de obstáculos aleatórios
 - Detecção de colisão
 - Contagem de score
 
@@ -21,6 +20,7 @@ Um joguinho simples inspirado no Crossy Road, desenvolvido em Python utilizando 
 ## Como rodar o projeto
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/LincolnNotAbraham/crossroad-python
 ````
@@ -34,7 +34,7 @@ pip install pygame
 3. Execute o jogo:
 
 ```bash
-python main.py
+python jogo.py
 ```
 
 ## Controles
