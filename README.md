@@ -41,10 +41,6 @@ python main.py
 
 * Setas do teclado para mover o personagem
 
-## Prints (opcional)
-
-(Adiciona screenshots do jogo rodando aqui)
-
 ## Autor
 
 Feito por [Lincoln]
